@@ -3,6 +3,6 @@
 
 # Usage:
 
-"""
+'''
 do_something("dangerous")
-"""
+'''
